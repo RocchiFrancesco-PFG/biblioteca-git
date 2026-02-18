@@ -11,6 +11,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+        System.out.println("Benvenuti nella biblioteca!");
+
         // --- Costruzione catalogo demo --------------------------------
         Catalogo catalogo = new Catalogo();
         GestorePrestiti gestore = new GestorePrestiti(catalogo);
