@@ -11,7 +11,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Benvenuti nella biblioteca!");
+        System.out.println("Benvenuti nella biblioteca del Prof. Rocchi!");
 
         // --- Costruzione catalogo demo --------------------------------
         Catalogo catalogo = new Catalogo();
